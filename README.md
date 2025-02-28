@@ -1,5 +1,5 @@
 # 💬 Chatbot Masscom
 
-Chương trình chatbot để hỗ trợ Massko tác nghiệp
+Chương trình chatbot để hỗ trợ công việc cá nhân của Đạt
 
 
