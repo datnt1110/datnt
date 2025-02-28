@@ -1,195 +1,28 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
-Tóm tắt chung:
-
-Các tài liệu được cung cấp tập trung vào Masscom Việt Nam, một công ty công nghệ của Việt Nam và các thương hiệu/công ty con của nó: Masstel, Joystar, Nexta và Hotwell. Masscom có sứ mệnh "Mang công nghệ mà mọi gia đình Việt đều có thể và dễ dàng tiếp cận". Công ty cung cấp các sản phẩm và giải pháp công nghệ khác nhau, nhắm đến nhiều phân khúc thị trường, bao gồm trẻ em, người lớn tuổi và các doanh nghiệp.
-
-Các chủ đề và ý chính chính:
-
-Masscom Việt Nam:
-Giới thiệu: Thành lập ngày 15/11/2010. Một trong 500 công ty công nghệ lớn nhất Việt Nam. Trụ sở chính tại Hà Nội.
-Tên đầy đủ: Công ty cổ phần Masscom Việt Nam
-Sứ mệnh: "Mang công nghệ mà mọi gia đình Việt đều có thể và dễ dàng tiếp cận".
-Tầm nhìn: Trở thành công ty công nghệ hàng đầu Việt Nam vào năm 2030.
-Các thương hiệu/công ty con: Masstel, Joystar, Nexta, Massko và Hotwell.
-Lịch sử phát triển: Phát triển nhanh chóng từ năm 2010, mở rộng chi nhánh trên toàn quốc, ra mắt nhiều dòng sản phẩm thành công (điện thoại Fami).
-Doanh thu và vốn điều lệ: Doanh thu đạt mốc hơn 1000 tỷ đồng. Vốn điều lệ tăng từ 8 tỷ đồng lên hơn 160 tỷ đồng (và sau đó là 200 tỷ đồng).
-Đối tác chiến lược: Viettel, Microsoft, Intel, Mobifone, VNPT, FPT, MediaMart, Nguyen Kim,...
-Cơ cấu tổ chức: Hội đồng cổ đông, Ban kiểm soát, Ban tổng giám đốc, các khối kinh doanh và nghiệp vụ.
-Masstel:
-Giới thiệu: Thương hiệu công nghệ của Masscom, chuyên về thiết bị di động (điện thoại phổ thông, điện thoại thông minh, máy tính bảng, đồng hồ thông minh, laptop giáo dục).
-"Masstel là thương hiệu công nghệ Việt thuộc Công ty Cổ phần Masscom Việt Nam... Được thành lập năm 2010 với sứ mệnh mang công nghệ mà mọi gia đình Việt đều có thể và dễ dàng tiếp cận..."
-"Đứng thứ hai về thị phần Feature Phone tại Việt Nam (theo GFK report)" (Từ profile-final_2022.pdf).
-Cung cấp các dòng điện thoại Fami, Izi hướng đến người lớn tuổi với tính năng tối ưu.
-Chính sách bán hàng: "1 đổi 1 trong 100 ngày".
-Joystar:
-Giới thiệu: Thương hiệu sản phẩm công nghệ dành cho trẻ em, thuộc Công ty CP Masscom Việt Nam. Được thành lập vào tháng 10/2023.
-Sản phẩm: Máy tính bảng bảo vệ mắt (Joystar J10), điện thoại học sinh (Joystar S10), đồng hồ định vị (Joystar W10), đèn học chống cận, phần mềm học tập, ứng dụng tiếng Anh.
-Tầm nhìn: "JOYSTAR operates on the principles of immutability, discipline, zero tolerance and no excuses. We believe that seriousness in complying with these principles will bring safe, quality learning and entertainment value to children every day. We believe and declare our vision to become a brand that provides technology solutions for 1 million children by 2030, helping them grow independently and safely."
-Định vị thương hiệu: "Technology brand for children."
-"JoyStar aspires to a global vision where we bring advanced and safe technology to children around the world."
-Nexta:
-Giới thiệu: Công ty CP Công nghệ Giáo dục, thành viên của Masscom, chuyên cung cấp giải pháp học tập tại nhà và lớp học thông minh. Thành lập tháng 3/2020.
-Sứ mệnh: "Góp phần mang lại cơ hội học tập và phát triển một cách tốt nhất cho mỗi học sinh trên mọi miền đất nước."
-Giải pháp: Lớp học thông minh, giải pháp học tập cá nhân (máy tính bảng học tập), siêu ứng dụng học tập Nexta, nền tảng kết nối an toàn.
-"Nexta is proud to be a pioneer in integrating advanced educational models, combining liberal art education principles, open educational resource values, and cutting-edge technology platforms." (Từ Smartclass Nexta (Eng_Version).pdf)
-Sản phẩm chính: Máy tính bảng Nexta eTeacher, Edutab Pro, Smart Study 1, Edutab Kid, màn hình tương tác MaxHub.
-Các giải pháp cho nhà trường: Tạo vị thế khác biệt, nâng cao năng lực cạnh tranh, hiện đại hóa cơ sở vật chất.
-Đối tượng: Học sinh (phát triển tư duy, ngôn ngữ), phụ huynh (tiết kiệm chi phí, dễ dàng đồng hành), nhà trường.
-Massko:
-Giới thiệu: Công ty TNHH Đầu tư Công nghệ, trực thuộc Masscom, thành lập năm 2020.
-Slogan: "Smart your living."
-Lĩnh vực hoạt động: Nghiên cứu, hợp tác sản xuất thiết bị thông minh, IoT, cung cấp giải pháp công nghệ cho doanh nghiệp.
-Hotwell:
-Giới thiệu: Thương hiệu gia dụng của Masscom, ra mắt năm 2021.
-Phương châm: Chất lượng vượt trội, an toàn cho sức khỏe, giá thật.
-Sản phẩm: Nồi chiên không dầu, nồi áp suất điện tử, máy xay nấu đa năng,...
-Điểm đáng chú ý:
-
-Sự tập trung vào thị trường giáo dục: Sự ra đời của Joystar và Nexta cho thấy Masscom đang tập trung mạnh vào thị trường giáo dục, đặc biệt là các sản phẩm và giải pháp dành cho trẻ em.
-Chiến lược đa dạng hóa: Masscom không chỉ tập trung vào thiết bị di động mà còn mở rộng sang các lĩnh vực gia dụng và giải pháp cho doanh nghiệp thông qua Massko và Hotwell.
-Tầm nhìn dài hạn: Mục tiêu trở thành công ty công nghệ hàng đầu Việt Nam vào năm 2030 cho thấy Masscom có tầm nhìn dài hạn và cam kết đầu tư vào nghiên cứu và phát triển.
-Giá trị cốt lõi: Các giá trị cốt lõi của Masscom (Simple, Smart, Save) thể hiện sự tập trung vào việc cung cấp các sản phẩm và dịch vụ dễ sử dụng, thông minh và tiết kiệm chi phí cho khách hàng.
-FAQ Joystar, Masscom, Nexta và các thương hiệu liên quan
-Câu hỏi 1: Joystar là gì và sản phẩm của họ hướng đến đối tượng nào?
-Joystar là thương hiệu sản phẩm công nghệ dành cho trẻ em, thuộc Công ty Cổ phần Masscom Việt Nam. Các sản phẩm của Joystar bao gồm máy tính bảng, điện thoại thông minh, đồng hồ định vị, đèn học chống cận và các phần mềm học tập, ứng dụng tiếng Anh. Các sản phẩm này được thiết kế phù hợp với nhiều lứa tuổi khác nhau, từ 2-15 tuổi, nhằm hỗ trợ sự phát triển toàn diện của trẻ em.
-Câu hỏi 2: Masscom Việt Nam là công ty như thế nào và những lĩnh vực kinh doanh chính của họ là gì?
-Masscom Việt Nam là một công ty công nghệ được thành lập vào năm 2010. Sứ mệnh của Masscom là mang công nghệ đến mọi gia đình Việt Nam một cách dễ dàng và tiếp cận được. Lĩnh vực kinh doanh chính của Masscom bao gồm thiết bị di động (điện thoại phổ thông, điện thoại thông minh), máy tính bảng, laptop, thiết bị gia dụng (thương hiệu Hotwell), thiết bị giáo dục (thông qua Nexta) và các giải pháp cho doanh nghiệp. Công ty cũng là nhà phân phối của một số thương hiệu công nghệ khác như ZTE và Remax.
-Câu hỏi 3: Nexta là gì và giải pháp giáo dục của họ cung cấp những gì?
-Nexta là một công ty thành viên của Masscom Việt Nam, chuyên về công nghệ giáo dục. Nexta cung cấp các giải pháp học tập toàn diện, bao gồm lớp học thông minh, giải pháp học tập cá nhân, và cộng đồng Nexta. Các sản phẩm chính của Nexta bao gồm máy tính bảng học tập thông minh, màn hình tương tác thông minh, siêu ứng dụng học Toán - Tiếng Việt - Tiếng Anh. Nexta cũng cung cấp nền tảng kết nối an toàn giữa giáo viên, phụ huynh và học sinh.
-Câu hỏi 4: Thương hiệu Hotwell của Masscom tập trung vào những sản phẩm nào và giá trị cốt lõi của thương hiệu là gì?
-Hotwell là thương hiệu gia dụng của Masscom Việt Nam, ra mắt vào năm 2021. Các sản phẩm chính của Hotwell bao gồm nồi chiên không dầu, nồi áp suất điện tử, bếp từ, máy xay sinh tố và các thiết bị gia dụng khác. Giá trị cốt lõi của Hotwell là chất lượng vượt trội, giá cả hợp lý và dịch vụ tận tâm, với phương châm "khách hàng làm trung tâm".
-Câu hỏi 5: Chính sách bảo hành và hỗ trợ khách hàng của Joystar và Masstel như thế nào?
-Joystar và Masstel cung cấp chính sách bảo hành chính hãng trong vòng 12 tháng. Masstel có chính sách 1 đổi 1 trong vòng 100 ngày cho một số sản phẩm. Cả hai thương hiệu đều có hệ thống trung tâm bảo hành trên toàn quốc và hỗ trợ khách hàng trực tiếp 24/7.
-Câu hỏi 6: Masscom có những công ty thành viên nào và mỗi công ty tập trung vào lĩnh vực nào?
-Masscom Việt Nam có các công ty thành viên sau:
-Nexta: Chuyên về công nghệ giáo dục, cung cấp các giải pháp học tập toàn diện cho học sinh và trường học.
-Hotwell: Chuyên về thiết bị gia dụng, mang đến những sản phẩm chất lượng và an toàn cho gia đình Việt.
-Massko: Chuyên về các giải pháp công nghệ và thiết bị thông minh phục vụ cho cuộc sống hàng ngày, bao gồm thiết bị IoT, camera IP, và các thiết bị viễn thông.
-Joystar: Thương hiệu sản phẩm công nghệ dành riêng cho trẻ em.
-Câu hỏi 7: Tầm nhìn và sứ mệnh của Masscom Việt Nam là gì?
-Tầm nhìn của Masscom Việt Nam là trở thành công ty công nghệ hàng đầu Việt Nam vào năm 2030. Sứ mệnh của Masscom là mang công nghệ mà mọi gia đình Việt đều có thể tiếp cận và sử dụng một cách dễ dàng.
-Câu hỏi 8: Joystar J10 tablet có những tính năng đặc biệt nào để bảo vệ mắt của trẻ em?
-Máy tính bảng Joystar J10 được trang bị các tính năng bảo vệ mắt toàn diện, bao gồm:
-Anti-blue light screen: Giảm thiểu tác hại của ánh sáng xanh đến 75%.
-Eye-approaching screen warning: Cảnh báo khi trẻ em sử dụng máy tính bảng quá gần mắt.
-Usage Time Control: Kiểm soát thời gian sử dụng máy tính bảng.
-Learning Progress Report: Báo cáo tiến độ học tập của trẻ.
-
-
-Timeline các sự kiện chính:
-
-15/11/2010: Công ty Cổ phần Masscom Việt Nam chính thức thành lập.
-2011: Masscom mở rộng chi nhánh ra Đà Nẵng và TP. Hồ Chí Minh.
-2014: Masstel ra mắt loạt máy tính bảng Tab có khả năng thoại. Chi nhánh Nghệ An được thành lập.
-2015:Trụ sở Masscom chuyển đến địa chỉ 11 Nguyễn Xiển, Hà Nội.
-Masstel lọt top 3 hãng máy tính bảng có doanh số dẫn đầu tại Việt Nam (Quý II).
-Tổng doanh thu của Masscom đạt hơn 1000 tỷ đồng.
-Masscom hợp tác với Microsoft & Intel (Quý III).
-Top 500 doanh nghiệp lớn nhất Việt Nam (12/2015)
-2016: Masstel ra mắt dòng điện thoại Fami.
-2018:Trụ sở chính chuyển về tầng 9, số 46 Tố Hữu, Thanh Xuân, Hà Nội.
-Masstel nằm trong top 100 nhãn hiệu nổi tiếng, nhãn hiệu cạnh tranh của Việt Nam.
-2019:Masstel ra mắt đồng hồ thông minh dành cho trẻ em Masstel Kid.
-Ra mắt Smartphone Fami dành cho người lớn tuổi (08/2019).
-Ra mắt máy tính bảng dành cho trẻ em (08/2019).
-03/2020: Masscom thành lập 2 công ty con: Công ty Đầu tư và Công nghệ Massko và Công ty Công nghệ Giáo dục Nexta (Ngày 09/03 thành lập Nexta).
-08/2020: Ra mắt và công bố đại diện hình ảnh đồng hồ thông minh Masstel Dream Action.
-11/2021: Ra mắt thương hiệu gia dụng Hotwell
-12/2021: Ra mắt thiết bị học tập tại nhà toàn diện dành cho học sinh Nexta Smart Study 1
-10/2023: Thành lập JoyStar - A TECHNOLOGY BRAND FOR CHILDREN
-13/02/2025: Các bài viết quảng cáo về Joystar J6 được đăng tải.
-19-20/02/2025: Nexta giới thiệu giải pháp Lớp học thông minh & Thư viện số tại Hải Phòng.
-21-22/02/2025: Nexta giới thiệu giải pháp Lớp học thông minh & Thư viện số tại Thái Nguyên.
-07/02/2025: Nexta trao tặng máy tính bảng và tài khoản học tập cho dự án "Chuyện của Mom".
-Dàn nhân vật chính:
-
-Công ty Cổ phần Masscom Việt Nam:Giới thiệu: Công ty công nghệ Việt Nam, thành lập năm 2010. Tập trung vào thiết bị di động, thiết bị gia dụng, thiết bị giáo dục và giải pháp cho doanh nghiệp.
-Tầm nhìn: Trở thành công ty công nghệ hàng đầu Việt Nam vào năm 2030.
-Sứ mệnh: Mang công nghệ mà mọi gia đình Việt đều có thể dễ dàng tiếp cận.
-Nguyễn Sỹ Pháp: Đồng sáng lập, Chủ tịch Hội đồng Quản trị.
-Lê Văn Dương: Đồng sáng lập, Tổng Giám đốc.
-Masstel: Thương hiệu công nghệ của Masscom, chuyên về điện thoại phổ thông, smartphone, máy tính bảng, đồng hồ thông minh và laptop.
-Hotwell: Thương hiệu gia dụng của Masscom, ra mắt năm 2021.
-Massko: Công ty TNHH Đầu tư Công nghệ Massko, thành lập năm 2020, trực thuộc Masscom. Chuyên về giải pháp công nghệ và thiết bị thông minh.
-Nexta:Giới thiệu: Công ty Cổ phần Công nghệ Giáo dục Nexta, thành lập tháng 3/2020, trực thuộc Masscom. Chuyên cung cấp giải pháp học tập tại nhà.
-Sứ mệnh: Góp phần mang lại cơ hội học tập và phát triển tốt nhất cho mỗi học sinh trên mọi miền đất nước.
-JoyStar: A TECHNOLOGY BRAND FOR CHILDREN được thành lập tháng 10/2023
-
-Hệ thống trung tâm bảo hành của Masscom có các địa điểm sau:
-•Hà Nội: Số 339 Nguyễn Khang, Phường Yên Hòa, Quận Cầu Giấy.
-•Hồ Chí Minh: Số 9 Lê Văn Huân, Phường 13, Quận Tân Bình.
-•Đà Nẵng: Lô E1-02 Shophouse Phân khu E – Dự án khu phức hợp đô thị Thương Mại cao tầng Phương Trang, Đường Nguyễn Sinh Sắc, Phường Hòa Minh, Quận Liên Chiểu, hoặc số 211 Nguyễn Sinh Sắc, Phường Hòa Minh, Quận Liên Chiểu.
-•Cần Thơ: Số 320/19, Đường Trần Ngọc Quế, Phường Hưng Lợi, Quận Ninh Kiều.
-•Nghệ An: Số 42 Nguyễn Cảnh Hoan, Phường Quán Bàu, Thành phố Vinh.
-
-Hội đồng quản trị của Masscom gồm 5 thành viên
-- Chủ tịch: Nguyễn Sỹ Pháp
-- Thành viên: Lê Văn Dương
-- Thành viên: Lê Thanh Khương
-- Thành viên: Phạm Quốc Hùng
-- Thành viên: Dương An Thạch
-
-
-Masscom cũng được chia làm 3 BU (Đơn vị kinh doanh)
-- BU1 là Thiết bị di động, kinh doanh các dòng sản phẩm: Masstel, ZTE, Remax,.. Do anh Lê Văn Dương làm Giám đốc
-- BU2 là Giải pháp giáo dục: Nexta, maxhub do chị Hồ Lê Na làm giám đốc
-- BU3 là Công nghệ cho trẻ em: Joystar, do anh Nguyễn Đức Cường làm giám đốc
-
-GIỚI THIỆU MASSKO
-Massko, trực thuộc Masscom, tiên phong trong việc kết hợp thực phẩm chức năng và công nghệ để chăm sóc sức khỏe cho người trung niên (40 tuổi trở lên). Chúng tôi không chỉ cung cấp sản phẩm, mà còn mang đến giải pháp toàn diện, giúp bạn giải quyết tận gốc các vấn đề như mất ngủ và bệnh chuyển hóa, nâng cao chất lượng cuộc sống.
-
-NHU CẦU HỢP TÁC CỦA MASSKO
-- Tìm đơn vị cung cấp thực phẩm chức năng chất lượng, uy tín với giá thành hợp lý phù hợp với người Việt Nam
-- Tìm các giải pháp toàn diện về chăm sóc sức khỏe cá nhân để hợp tác kinh doanh ở Việt Nam, đặc biệt các giải pháp có kết hợp cả thực phẩm chức năng và công nghệ
- 
-
-CHÂN DUNG ỨNG VIÊN MASSKO:
-1. Trưởng phòng Kinh doanh:
-1.1 Mô tả tóm tắt vị trí:
-Vị trí Trưởng phòng Kinh doanh chịu trách nhiệm lãnh đạo, quản lý và phát triển đội ngũ kinh doanh, xây dựng và triển khai chiến lược kinh doanh nhằm đạt được các mục tiêu doanh số và mở rộng thị phần cho các sản phẩm thiết bị theo dõi sức khỏe và thực phẩm chức năng của Massko.
-1.2 Mô tả công việc:
-Xây dựng và triển khai kế hoạch kinh doanh, chiến lược tiếp cận thị trường, đảm bảo đạt và vượt chỉ tiêu doanh số.
-Phát triển mạng lưới khách hàng, mở rộng kênh phân phối (online & offline) cho sản phẩm.
-Quản lý, đào tạo, huấn luyện và phát triển đội ngũ kinh doanh, tạo động lực làm việc.
-Nghiên cứu thị trường, phân tích đối thủ cạnh tranh, nắm bắt xu hướng và nhu cầu khách hàng.
-Đàm phán, ký kết hợp đồng với khách hàng, đối tác.
-Xây dựng và duy trì mối quan hệ tốt đẹp với khách hàng, đối tác.
-Theo dõi, phân tích số liệu kinh doanh, đánh giá hiệu quả và đề xuất giải pháp cải thiện.
-Báo cáo kết quả kinh doanh định kỳ cho Ban Giám đốc.
-1.3 Yêu cầu ứng tuyển:
-Bằng cấp: Tốt nghiệp Đại học trở lên các chuyên ngành Kinh tế, Quản trị kinh doanh, Marketing hoặc các ngành liên quan.
-Kinh nghiệm: Ít nhất 5 năm kinh nghiệm ở vị trí tương đương, ưu tiên ứng viên có kinh nghiệm trong lĩnh vực thiết bị y tế, chăm sóc sức khỏe hoặc thực phẩm chức năng.
-Năng lực:
-Nắm vững kiến thức về kinh doanh, marketing, quản lý bán hàng.
-Am hiểu thị trường chăm sóc sức khỏe, đặc biệt là các sản phẩm công nghệ và thực phẩm chức năng.
-Kỹ năng lãnh đạo, quản lý và phát triển đội ngũ.
-Kỹ năng giao tiếp, đàm phán, thuyết trình tốt.
-Tư duy chiến lược, phân tích và giải quyết vấn đề.
-Thành thạo tin học văn phòng.
-Tiếng Anh giao tiếp tốt là một lợi thế.
-2. Trưởng phòng Phát triển sản phẩm:
-2.1 Mô tả tóm tắt vị trí:
-Vị trí Trưởng phòng Phát triển sản phẩm chịu trách nhiệm lãnh đạo và quản lý quá trình nghiên cứu, phát triển và cải tiến các sản phẩm thiết bị theo dõi sức khỏe và thực phẩm chức năng của Massko, đảm bảo sản phẩm đáp ứng nhu cầu thị trường, mang tính cạnh tranh và hiệu quả.
-2.2 Mô tả công việc:
-Nghiên cứu thị trường, xác định nhu cầu khách hàng và xu hướng công nghệ mới trong lĩnh vực chăm sóc sức khỏe.
-Lên ý tưởng, thiết kế và phát triển các sản phẩm mới (thiết bị theo dõi sức khỏe, thực phẩm chức năng) đáp ứng nhu cầu thị trường.
-Xây dựng quy trình sản xuất, kiểm tra chất lượng sản phẩm.
-Quản lý dự án phát triển sản phẩm, bao gồm lập kế hoạch, phân bổ nguồn lực, giám sát tiến độ và kiểm soát ngân sách.
-Phối hợp với các bộ phận Marketing, Kinh doanh, Sản xuất để triển khai sản phẩm ra thị trường.
-Theo dõi, đánh giá và cải tiến sản phẩm hiện có.
-Cập nhật kiến thức, nghiên cứu và ứng dụng công nghệ mới vào phát triển sản phẩm.
-2.3 Yêu cầu ứng tuyển:
-Bằng cấp: Tốt nghiệp Đại học trở lên các chuyên ngành liên quan đến Y sinh, Công nghệ sinh học, Dược học, Công nghệ thông tin hoặc các ngành kỹ thuật liên quan.
-Kinh nghiệm: Ít nhất 3 năm kinh nghiệm ở vị trí tương đương, ưu tiên ứng viên có kinh nghiệm trong lĩnh vực nghiên cứu và phát triển thiết bị y tế, thực phẩm chức năng.
-Năng lực:
-Kiến thức chuyên sâu về thiết bị y tế, công nghệ sinh học, thực phẩm chức năng.
-Am hiểu quy trình nghiên cứu và phát triển sản phẩm mới.
-Nắm bắt xu hướng công nghệ mới trong lĩnh vực chăm sóc sức khỏe cá nhân.
-Kỹ năng quản lý dự án, làm việc nhóm, giao tiếp và thuyết trình.
-Tư duy sáng tạo, phân tích và giải quyết vấn đề.
-Tiếng Anh chuyên ngành tốt là một lợi thế.
 
 VỀ CÁ NHÂN TÔI
-Tôi là Đạt, tên đầy đủ Nguyễn Tiến Đạt, vị trí: Giám đốc Tăng trưởng của Masscom Việt Nam
+Tôi là Đạt, tên đầy đủ Nguyễn Tiến Đạt, vị trí: Giám đốc Tăng trưởng của Công ty Masscom Việt Nam
 Điện thoại: 0968.886611
 Email: datnt@masscom.vn
+Địa chỉ nhà: CT3 The Pride - Hải Phát - Tố hữu - Hà Nội
+Địa chỉ văn phòng: Tầng 9 - 48 Tố Hữu - Quận Thanh Xuân - Hà Nội
+Trung tâm bảo hành Hà Nội: Số 339 Nguyễn Khang, Phường Yên Hòa, Quận Cầu Giấy, TP. Hà Nội
+Tại Hồ Chí Minh:      Số 9 Lê Văn Huân, Phường 13, Quận Tân Bình, TP. Hồ Chí Minh
+Tại Đà Nẵng:     Số 211 Nguyễn Sinh Sắc, Phường Hòa Minh, Quận Liên Chiểu, TP. Đà Nẵng 
+Tại Cần Thơ:   Số 320/19 Trần Ngọc Quế, Phường Hưng Lợi, Quận Ninh Kiều, Thành Phố Cần Thơ 
+Tại Nghệ An:      Số 42 Nguyễn Cảnh Hoan, Phường Quán Bàu, Thành phố Vinh, Tỉnh Nghệ An
+
+Căn cước công dân (CCCD): 
+Sô: 034085017625
+Giá trị đến
+11/10/2025
+Nơi cấp: Hà Nội
+Ngày cấp: 1/11/2021
+
+Hộ chiếu:
+P00358561
+Ngày hết hạn 9/11/2032
+Ngày cấp: 9/11/2022
+
+Mã số thuế: 8016527935
+
